@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Yasin\TechAcademy\vs-tour\Enum\Enum\obj\Debug\Enum.pdb
